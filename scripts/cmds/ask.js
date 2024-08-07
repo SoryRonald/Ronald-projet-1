@@ -8,7 +8,6 @@ const Prefixes = [
   'ask',
 
   'gpt',
-  'mia',
 
   'openai',
 
